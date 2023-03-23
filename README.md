@@ -1,2 +1,2 @@
 # face_names
-Small app to train yourself remembering people
+Small app to train yourself remembering people's names
